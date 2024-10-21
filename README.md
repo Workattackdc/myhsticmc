@@ -1,2 +1,0 @@
-# myhsticmc
-MyhsticMC website
